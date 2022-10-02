@@ -8,7 +8,7 @@
 
 # Spotify-Clone
 
-### Some of screen-shots of my shopify-clone website.
+### Some of screen-shots of my spotify-clone website.
 
 <!-- Add Screenshot of project -->
 ![1](./Assets/screen-shot/1.png)
